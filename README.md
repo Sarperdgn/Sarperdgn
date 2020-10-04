@@ -1,4 +1,4 @@
-<p align="center">Jr. Developer 🤓.</p>
+<p align="center">Jr. Developer.</p>
 <p align="center">
   <a href="sarptra.com" target="_blank">website</a>
   |
