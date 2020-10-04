@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">Jr. Developer 🤓.</p>
+<p align="center">
+  <a href="sarptra.com" target="_blank">website</a>
+  |
+  <a href="https://twitter.com/Sarptra_Dev" target="_blank">twitter</a>
+  |
+  <a href="https://discord.gg/AW5V9Um" target="_blank">discord</a>
+</p>
 
-<!--
-**Sarptra/Sarptra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarptra&count_private=true&show_icons=true&theme=dark&hide_border=true" width="50%" height="150px" alt="stats" />
+</p>
