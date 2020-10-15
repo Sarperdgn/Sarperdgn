@@ -1,3 +1,6 @@
+### Hi there 👋
+My name's Sarp, but you can call me Sarptra too. 
+I'm mainly working on discord bots but I also spend time figuring out how to write efficient microservices.
 <p align="center">Jr. Developer.</p>
 <p align="center">
   <a href="sarptra.com" target="_blank">website</a>
