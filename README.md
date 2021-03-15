@@ -4,7 +4,7 @@ I'm mainly working on discord bots but I also spend time for lua projects
 
 <p align="center">Jr. Developer.</p>
 <p align="center">
-  <a href="sarptra.com" target="_blank">website</a>
+  <a href="https://sarptra.github.io" target="_blank">website</a>
   |
   <a href="https://twitter.com/Sarptra_Dev" target="_blank">twitter</a>
   |
