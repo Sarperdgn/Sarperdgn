@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name's Sarp, but you can call me Sarptra too. 
-I'm mainly working on discord bots but I also spend time for lua projects
+I'm mainly working on discord bots but I also spend time for javascript
 
 <p align="center">Jr. Developer.</p>
 <p align="center">
