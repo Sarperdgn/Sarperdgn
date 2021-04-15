@@ -1,5 +1,5 @@
-### Hi there 👋
-My name's Sarp, but you can call me Sarptra too. 
+### Hey 👋
+My name's Sarp.
 I'm mainly working on discord bots but I also spend time for javascript
 
 <p align="center">Jr. Developer.</p>
