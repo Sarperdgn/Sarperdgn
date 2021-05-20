@@ -1,6 +1,6 @@
-### About Tra
+### Hey 
 My name's Sarp.
-I make shitty javascript things.
+I'm mainly working on discord bots but I also spend time for javascript
 
 <p align="center">Jr. Developer.</p>
 <p align="center">
