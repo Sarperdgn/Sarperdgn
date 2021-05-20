@@ -1,4 +1,4 @@
-### Hey 
+### Hey👋
 My name's Sarp.
 I'm mainly working on discord bots but I also spend time for javascript
 
