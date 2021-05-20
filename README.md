@@ -1,6 +1,5 @@
 ### About Tra
 My name's Sarp.
-
 I make shitty javascript things.
 
 <p align="center">Jr. Developer.</p>
