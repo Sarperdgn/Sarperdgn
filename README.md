@@ -1,6 +1,7 @@
 ### Hey👋
 My name's Sarp.
 I'm mainly working on discord bots but I also spend time for javascript
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarptra&label=Profile%20views&color=0e75b6&style=flat" alt="sarptra" /> </p>
 
 <p align="center">Jr. Developer.</p>
 <p align="center">
