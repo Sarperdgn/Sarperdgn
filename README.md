@@ -1,12 +1,12 @@
 ### Hey👋
-Ima js developer 
+I love front-end dev
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarptra&label=Profile%20views&color=0e75b6&style=flat" alt="sarptra" /> </p>
 
-<p align="center">Sarp e.</p>
+<p align="center">Sarp E.</p>
 <p align="center">
-  <a href="https://sarptra.github.io" target="_blank">website</a>
+  <a href="https://sarptra.com" target="_blank">website</a>
   |
-  <a href="https://discord.gg/AW5V9Um" target="_blank">discord</a>
+  <a href="https://vpn.sarptra.com" target="_blank">my vpn service </a>
 </p>
 
 <p align="center">
