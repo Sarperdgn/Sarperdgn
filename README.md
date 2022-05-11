@@ -6,7 +6,8 @@ Front end dev & Javascript
 
 *   🌚  Located in Turkey
 *   🖥️  See my portfolio at [Personal Website](http://sarptra.com)
-*   🗿  Currently working on [NDVPN](http://vpn.sarptra.com)### Skills
+*   🗿  Currently working on [NDVPN](http://vpn.sarptra.com)
+### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
