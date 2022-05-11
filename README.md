@@ -4,9 +4,9 @@ Hi! 👋 My name is Sarp Erdoğan
 Front end dev & Javascript
 --------------------------
 
-*   🌚  I'm based in Antalya
+*   🌚  Located in Turkey
 *   🖥️  See my portfolio at [Personal Website](http://sarptra.com)
-*   🗿  I'm currently working on [NDVPN](http://vpn.sarptra.com)### Skills<p align="left">
+*   🗿  Currently working on [NDVPN](http://vpn.sarptra.com)### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
