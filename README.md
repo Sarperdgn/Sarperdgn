@@ -1,10 +1,10 @@
-Hi! 👋 My name is Sarp Erdoğan
+Hi! 👋 My name is Sarp
 =============================
 
 Front end dev & Javascript
 --------------------------
 
-*   🌚  Located in Turkey
+*   🌚  I'm Located in Turkey
 *   🖥️  See my portfolio at [Personal Website](http://sarptra.com)
 *   🗿  Currently working on [NDVPN](http://vpn.sarptra.com)
 ### Skills
