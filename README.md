@@ -4,7 +4,7 @@ Hi! 👋 My name is Sarp
 Front end dev & Javascript
 --------------------------
 
-*   🌚  I'm Located in Turkey
+*   🌚  I'm Located in Bremen, Germany
 *   🖥️  See my portfolio at [Personal Website](http://sarptra.com)
 *   🗿  Currently working on [NDVPN](http://vpn.sarptra.com)
 ### Skills
