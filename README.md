@@ -1,4 +1,4 @@
-Hi! 👋 My name is Sarp
+Hi there! I'm Sarp 👋
 =============================
 
 Front-End Developer | JavaScript Focused
