@@ -5,7 +5,7 @@ Front-End Developer | JavaScript Focused
 --------------------------
 
 *   📍 Based in Bremen, Germany
-*   🌐 Check out my work: Portfolio [Website](http://sarptra.com)
+*   🌐 Check out my work: [Portfolio Website](http://sarptra.com)
 *   🚧 Currently working on: [NDVPN](http://vpn.sarptra.com)
 ### Skills
 <p align="left">
