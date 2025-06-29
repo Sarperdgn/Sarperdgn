@@ -33,7 +33,7 @@ Front-End Developer | JavaScript Focused
   <p align="left">
                         
                           
-   <a href="https://www.twitter.com/sarpperdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /><a href="https://www.linkedin.com/in/daniel-cranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+   <a href="https://www.twitter.com/sarpperdgn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /><a href="https://linkedin.com/in/sarp-erdoğan-6a991b34b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
    
   </p>
