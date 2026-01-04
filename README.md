@@ -24,6 +24,20 @@ Front-End Developer | JavaScript Focused
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 
 </p>
+
+### 💻 Languages & Frameworks
+- **JavaScript (ES6+)**
+- **React / React Native**
+- HTML5, CSS3
+- Tailwind CSS
+
+### ⚙️ Tools & Technologies
+- Figma
+- MySQL / MariaDB
+- Docker
+- REST APIs  
+- Node.js
+- MacOS / Linux  
                     
                     
   ### Socials
