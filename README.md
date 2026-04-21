@@ -117,6 +117,7 @@ Front-End Developer | JavaScript Focused
     <td></td>
   </tr>
 </table>
+
 ### 💻 Languages & Frameworks
 - **JavaScript (ES6+)**
 - **React / React Native**
